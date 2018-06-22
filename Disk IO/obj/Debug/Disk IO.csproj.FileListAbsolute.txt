@@ -1,0 +1,29 @@
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\bin\Debug\Disk IO.exe.config
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\bin\Debug\Disk IO.exe
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\bin\Debug\Disk IO.pdb
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk IO.csprojResolveAssemblyReference.cache
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk_IO.Properties.Resources.resources
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk IO.csproj.GenerateResource.Cache
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk IO.exe
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk IO.pdb
+C:\Users\oswardfish\documents\visual studio 2017\Projects\Disk IO\Disk IO\obj\Debug\Disk_IO.Form1.resources
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.exe.config
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.exe
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.pdb
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csprojResolveAssemblyReference.cache
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk_IO.Form1.resources
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk_IO.Properties.Resources.resources
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csproj.GenerateResource.Cache
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csproj.CoreCompileInputs.cache
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.exe
+C:\Users\Tae0E\source\repos\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.pdb
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.exe.config
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.exe
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\bin\Debug\Disk IO.pdb
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk_IO.Form1.resources
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk_IO.Properties.Resources.resources
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.exe
+C:\Users\User\Desktop\Term Project - Disk IO Scheduler Design sample source code\Disk IO\obj\Debug\Disk IO.pdb
